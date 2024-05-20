@@ -38,6 +38,7 @@
 		E499DBDF2BFB9BD700CB238F /* BooksFilteredView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooksFilteredView.swift; sourceTree = "<group>"; };
 		E499DBE32BFBBF7C00CB238F /* BookSynopsisView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookSynopsisView.swift; sourceTree = "<group>"; };
 		E499DBE52BFBDECE00CB238F /* AuthorListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorListView.swift; sourceTree = "<group>"; };
+		E499DBE72BFBE30400CB238F /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		E499DBB62BFA5C9700CB238F = {
 			isa = PBXGroup;
 			children = (
+				E499DBE72BFBE30400CB238F /* Readme.md */,
 				E499DBC12BFA5C9800CB238F /* NavigationSplitAndStackTest */,
 				E499DBC02BFA5C9800CB238F /* Products */,
 			);
